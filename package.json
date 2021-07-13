@@ -1,0 +1,34 @@
+{
+    "name": "gladiator-theme",
+    "displayName": "Gladiator Theme",
+    "description": "Just a simple dark cool theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "publisher": "Basharath",
+    "keywords": [
+		"theme",
+		"gladiator",
+		"dark theme",
+		"simple dark",
+        "vscode theme for eyes",
+        "vscode theme 2021"
+	],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Basharath/gladiator-theme"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gladiator Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vscode-theme-color-theme.json"
+            }
+        ]
+    }
+}
