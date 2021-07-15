@@ -71,8 +71,8 @@
     "pickerGroup.foreground": "#e7e7e7",
     "quickInput.background": "#1f2428",
     "quickInput.foreground": "#e7e7e7",
-    "statusBar.foreground": "#d1d5da",
-    "statusBar.background": "#324690",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBar.background": "#0a53a3",
     "statusBar.border": "#242a3f",
     "statusBar.noFolderBackground": "#1f2428",
     "statusBar.debuggingBackground": "#931c06",
@@ -232,7 +232,7 @@
         "string punctuation.section.embedded source"
       ],
       "settings": {
-        "foreground": "#34e0a6"
+        "foreground": "#00EAD3"
       }
     },
     {

@@ -17,7 +17,8 @@ A simple dark cool theme for VS Code.
 ---
 
 
-> If you like the theme give a thumbs up!
+> If you like the theme share it with your friends.
 
+> You can send your feedback through [Twitter](https://twitter.com/hashBender)
 
-> Source: https://github.com/Basharath/gladiator-theme.git
+> Source: https://github.com/Basharath/gladiator-theme
