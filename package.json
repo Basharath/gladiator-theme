@@ -2,7 +2,7 @@
     "name": "gladiator-theme",
     "displayName": "Gladiator Theme",
     "description": "Just a simple dark cool theme for VS Code",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.58.0"
     },
