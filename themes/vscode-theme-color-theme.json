@@ -100,7 +100,7 @@
     "editor.background": "#1f2428",
     "editorWidget.background": "#202429",
     "editor.foldBackground": "#58606915",
-    "editor.lineHighlightBackground": "#282e33",
+    "editor.lineHighlightBackground": "#282e33cc",
     "editorLineNumber.foreground": "#444d56",
     "editorLineNumber.activeForeground": "#e7e7e7",
     "editorIndentGuide.background": "#1f2428",
@@ -126,7 +126,7 @@
     "diffEditor.insertedTextBackground": "#28a74530",
     "diffEditor.removedTextBackground": "#d73a4930",
     "scrollbar.shadow": "#0008",
-    "scrollbarSlider.background": "#282e33",
+    "scrollbarSlider.background": "#282e33a0",
     "scrollbarSlider.hoverBackground": "#6a737d44",
     "scrollbarSlider.activeBackground": "#6a737d88",
     "editorOverviewRuler.border": "#242a3f",
@@ -232,7 +232,7 @@
         "string punctuation.section.embedded source"
       ],
       "settings": {
-        "foreground": "#00EAD3"
+        "foreground": "#00e6cf"
       }
     },
     {
